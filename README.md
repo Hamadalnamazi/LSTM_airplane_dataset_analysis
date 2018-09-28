@@ -2,6 +2,10 @@
 
 Implementation of LSTM in a supervised learning problem in both keras and tensorflow.
 
+#### Dataset :
+
+International airline passengers,with monthly totals in thousands
+
 # About the problem
 
 It's obvious that it's a supervised learning problem. So, initially the dataset looked something like this :
